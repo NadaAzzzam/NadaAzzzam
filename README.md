@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, next.js and docker**
 
-- 👨‍💻 All of my projects are available at [https://nadaazzam.site/](https://nadaazzam.site/)
+- 👨‍💻 All of my projects are available at [https://nadaazzzam.github.io/nada_azzam-portfolio-2/]([https://nadaazzam.site/](https://nadaazzzam.github.io/nada_azzam-portfolio-2))
 
 - 📫 How to reach me **nadaazzam123@outlook.com**
 
